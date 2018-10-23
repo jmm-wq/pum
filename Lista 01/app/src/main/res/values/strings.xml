@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppGeoQuiz</string>
+    <string name="question_1">Is Czomulungma the other name for Mt. Everest</string>
+    <string name="question_2">Russia Is bigger then Brazil</string>
+    <string name="question_3">Nile is longer then Wolga</string>
+    <string name="question_4">Mt.Kosciuszko is higher then Mt.Kilimandżaro</string>
+    <string name="question_5">Kaspian sea is a sea</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Bravo!</string>
+    <string name="incorrect_toast">Not Cool!</string>
+</resources>
